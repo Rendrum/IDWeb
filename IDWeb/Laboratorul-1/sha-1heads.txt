@@ -1,0 +1,11 @@
+master:		  6cc0fd4183075d383aa6471bcd839e097d6ba733 
+c_language:	  ff6ecc2edd6d38b9f601c3d8ab44f573fd7eff27 
+c_sharp:	  ed7ca6fed8c21bd6807329c976c2997f79574dc0 
+cpp_language:	  8de48ee095335beca2581c56dfe69865269c8624 
+fortran_language: cdaeb62856e82bb7629b5e9b9bc416460d45ae19 
+go_language:	  5310b11085961a7733cc602cb61c10154d3a5798 
+java_language:    fcf464b92c447a7edaa863d4caa1778a3bb9e8ae 
+javascript:	  f27c28589ae5259fe680cbe899b93a1c2158a175 
+pascal_language:  848f67b9ddb807cb1d4f78e4733b117b5e99319c 
+python_language:  d0a65903e372b882e9c935b1d444672131dca4b5 
+r_language:	  6bc30bfe511bc943384ef4fa7cb7ab17cd637a68 
